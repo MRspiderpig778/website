@@ -1,12 +1,11 @@
 @charset "utf-8";
 /* CSS Document */
-p { text-align: center;
+p { text-align: left;
     font-size: 140%;
 	margin-top:10px;
     margin-bottom:100px;
     margin-right:5%;
-    margin-left:5%;
-	
+    margin-left:5%;	
 }
 
 
