@@ -5,7 +5,8 @@ p { text-align: left;
 	margin-top:10px;
     margin-bottom:100px;
     margin-right:5%;
-    margin-left:5%;	
+    margin-left:5%;
+	
 }
 
 
@@ -41,9 +42,7 @@ img.center {
 body {
 	background-image:url('background.png');
 }
-.center {
-    text-align: center;
-}
+
 
 
 #header-bottom {
