@@ -41,7 +41,9 @@ img.center {
 body {
 	background-image:url('background.png');
 }
-
+.center {
+    text-align: center;
+}
 
 
 #header-bottom {
